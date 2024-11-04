@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iximioyi.github.io/MrK/sitemap_index.txt
+Sitemap: https://iximioyi.github.io/NgG/sitemap_index.txt
+Sitemap: https://iximioyi.github.io/aeG/sitemap_index.txt
+Sitemap: https://iximioyi.github.io/vqm/sitemap_index.txt
